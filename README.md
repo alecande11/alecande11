@@ -11,7 +11,7 @@
         <a href="https://discordapp.com/users/514341581554319361/">
           <img src="./img/discord.png" alt="Discord" width="40px" />
         </a>
-        <a href="https://discordapp.com/users/514341581554319361/">
+        <a href="https://candeago.dev">
           <img src="./img/web.png" alt="Website" width="40px" />
         </a>
     </div>
