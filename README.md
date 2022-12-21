@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./img/profile.png" width="120" boreder>
     <h3>Alessandro Candeago</h3>
-    <p>React and blockchain developer</p>
+    <p>Frontend developer</p>
     <div align="center">
         <a href="https://twitter.com/ale_cande11">
           <img src="./img/twitter.png" alt="Twitter" width="40px" />
