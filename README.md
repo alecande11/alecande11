@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./img/profile.png" width="120" boreder>
+    <img src="./img/pfp.png" width="120" boreder>
     <h3>Alessandro Candeago</h3>
     <p>Frontend developer</p>
     <div align="center">
